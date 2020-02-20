@@ -34,7 +34,8 @@ The main findings of the code can be found at the post available [here](https://
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Data was obtained from Kaggle. For more information, use the following links:
-For Seattle Airbnb use: https://www.kaggle.com/airbnb/seattle/data
+Data was obtained from Kaggle. <br>
+For more information, use the following links: <br>
+For Seattle Airbnb use: https://www.kaggle.com/airbnb/seattle/data <br>
 For Boston Airbnb use: https://www.kaggle.com/airbnb/boston
 
